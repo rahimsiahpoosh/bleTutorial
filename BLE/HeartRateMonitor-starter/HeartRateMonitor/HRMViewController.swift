@@ -159,7 +159,9 @@ extension HRMViewController: CBPeripheralDelegate {
   }
 }
 
+
 // Hej Fralle
+
 
 
 
