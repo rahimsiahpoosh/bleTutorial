@@ -159,7 +159,7 @@ extension HRMViewController: CBPeripheralDelegate {
   }
 }
 
-// Hej Ralle
+// Hej Kalle
 
 
 
